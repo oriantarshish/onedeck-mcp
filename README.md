@@ -1,1 +1,11 @@
-
+env:
+auth_apikey_key=
+api_key=
+auth_apikey_in=
+base_url=
+board_id=
+record_id=
+mime_type=
+file_name=
+document_id=
+share_id=
