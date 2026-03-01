@@ -1,4 +1,4 @@
-env:
+create .env and put those keys:
 auth_apikey_key=
 api_key=
 auth_apikey_in=
